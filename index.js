@@ -1,10 +1,10 @@
 function myAnimal() {
-  var animal = 'cat';
+  var animal = 'dog';
   return animal;
 }
 
 function yourAnimal() {
-  var animal = 'dog';
+  var animal = 'cat';
   return animal;
 }
 
